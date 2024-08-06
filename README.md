@@ -16,4 +16,4 @@ Based off of Monkeytype.
   - Black: Correctly typed the character.
 
 # Credits
-- `wordList1000.txt` was taken from David Norman's (deekayen) [1-1000.txt](https://gist.github.com/deekayen/4148741)
+- `wordList1000.txt` was taken from David Norman's ([deekayen](https://github.com/deekayen)) [1-1000.txt](https://gist.github.com/deekayen/4148741)
